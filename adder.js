@@ -4,7 +4,7 @@ console.log(gimmeFive());
 console.log(gimmeNothing());
 
 function gimmeFive() {
-    return 4 + 1;
+    return 5;
 }
 
 function gimmeNothing() {
